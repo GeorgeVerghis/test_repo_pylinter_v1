@@ -8,3 +8,4 @@ def func1(a, b) -> int:
 
 def func2(a, b, c) -> int:
     return os.getcwd()
+
